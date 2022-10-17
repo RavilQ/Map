@@ -1,0 +1,35 @@
+.images{
+    width: 170px;
+    height: 170px;
+}
+.images0{
+    width: 170px;
+    height: 170px;
+}
+.images1{
+    width: 170px;
+    height: 170px;
+}
+.images2{
+    width: 170px;
+    height: 170px;
+}
+.images3{
+    width: 170px;
+    height: 170px;
+}
+.images4{
+    width: 170px;
+    height: 170px;
+}
+.big-div{
+    text-align: center;
+}
+.big-div :first-child{
+    
+    height: 400px;
+    width: 400px;
+}
+.dov{
+    text-align: center;
+}
